@@ -1,0 +1,8 @@
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="750" width="750" height="250" transform="rotate(-90 0 750)" fill="white"/>
+<rect x="250" y="500" width="250" height="250" fill="white"/>
+<path d="M250 0L750 0C888.071 0 1000 111.929 1000 250V250H250V0Z" fill="white"/>
+<path d="M1000 250V750C1000 888.071 888.071 1000 750 1000V1000V250L1000 250Z" fill="white"/>
+<path d="M0 750H250L0 1000V750Z" fill="white"/>
+<path d="M500 750V500L750 750H500Z" fill="white"/>
+</svg>
