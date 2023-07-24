@@ -1,4 +1,4 @@
-hi this is my simple website inspired by (Sean Wallace)[https://github.com/auriali] also known online as (da-ta)[https://scratch.mit.edu/users/da-ta] or [auriali](https://wasteof.money/users/auriali)
+hi this is my simple website inspired by [Sean Wallace](https://github.com/auriali) also known online as [da-ta](https://scratch.mit.edu/users/da-ta) or [auriali](https://wasteof.money/users/auriali)
 
 ## Getting Started
 
